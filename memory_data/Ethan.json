@@ -1,0 +1,86 @@
+[
+    {
+        "entry_id": 1,
+        "day": 1,
+        "time": "22:00",
+        "event": "The train departs. I sit in my cabin (Car 10, Room 2), waiting for the attendant to check rooms.",
+        "reaction": "I'm planning to steal her passenger log after she passes."
+    },
+    {
+        "entry_id": 2,
+        "day": 1,
+        "time": "22:50",
+        "event": "The attendant reaches my car. She looks familiar. I quietly follow her to see where she goes.",
+        "reaction": "Is she connected to Angel’s case?"
+    },
+    {
+        "entry_id": 3,
+        "day": 1,
+        "time": "23:15",
+        "event": "She leaves the attendant's room in Car 9. I sneak in and grab the passenger log.",
+        "reaction": "No one saw me. I need to find Marcus."
+    },
+    {
+        "entry_id": 4,
+        "day": 1,
+        "time": "23:30",
+        "event": "After some searching, I find Marcus’s cabin and take a photo of his info. I ditch the log in Car 10.",
+        "reaction": "It’s time. I can’t let him get away."
+    },
+    {
+        "entry_id": 5,
+        "day": 1,
+        "time": "00:05",
+        "event": "With my knife ready, I sneak into Marcus’s room and stab him in the chest three times while he sleeps.",
+        "reaction": "One for Angel, one for Mom, and one for myself."
+    },
+    {
+        "entry_id": 6,
+        "day": 1,
+        "time": "00:08",
+        "event": "I go to the restroom and wash the blood from the knife.",
+        "reaction": "Stay calm. No one saw me."
+    },
+    {
+        "entry_id": 7,
+        "day": 1,
+        "time": "00:10",
+        "event": "I return to my cabin and hide the knife.",
+        "reaction": "It’s over. I just need to act normal now."
+    },
+    {
+        "entry_id": 8,
+        "day": 1,
+        "time": "00:15",
+        "event": "Suddenly, a loud crash—then the train comes to a halt.",
+        "reaction": "What happened? Did someone find the body already?"
+    },
+    {
+        "entry_id": 9,
+        "day": 2,
+        "time": "dialogue",
+        "event": "I spoke with Ivan.",
+        "reaction": "I feel something serious is happening; did you spot anything strange?"
+    },
+    {
+        "entry_id": 10,
+        "day": 2,
+        "time": "dialogue",
+        "event": "I spoke with Ivan.",
+        "reaction": "I found him stabbed in his room, implying we both have shared complications, possibly due to a common acquaintance."
+    },
+    {
+        "entry_id": 11,
+        "day": 2,
+        "time": "dialogue",
+        "event": "Talked with Raven.",
+        "reaction": "Responded to Raven's question about Marcus."
+    },
+    {
+        "entry_id": 12,
+        "day": 2,
+        "time": "dialogue",
+        "event": "Talked with Raven.",
+        "reaction": "I must address unresolved matters, which could get complicated due to the train stopping."
+    }
+]

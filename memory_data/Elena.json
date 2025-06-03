@@ -1,0 +1,79 @@
+[
+    {
+        "entry_id": 1,
+        "day": 1,
+        "time": "22:40",
+        "event": "As a train attendant, I started checking tickets.",
+        "reaction": "Focused and methodical, making sure everything was in order."
+    },
+    {
+        "entry_id": 2,
+        "day": 1,
+        "time": "23:15",
+        "event": "Finished checking all tickets.",
+        "reaction": "Satisfied with the smooth progress."
+    },
+    {
+        "entry_id": 3,
+        "day": 1,
+        "time": "23:20",
+        "event": "Returned to the lounge and took out a syringe and sleeping pills prepared for an insomniac passenger.",
+        "reaction": "Knowing Marcus’s preference for a certain drink, I injected the sleeping pills into his favorite beverage, then cleaned the syringe and put it away."
+    },
+    {
+        "entry_id": 4,
+        "day": 1,
+        "time": "23:30",
+        "event": "Placed the drugged drink on the dining car and went out to deliver it to Marcus.",
+        "reaction": "Waiting patiently for the drug to take effect."
+    },
+    {
+        "entry_id": 5,
+        "day": 1,
+        "time": "23:35",
+        "event": "Returned to the lounge, took out the Swiss Army knife I had prepared, and hid it under the dining car.",
+        "reaction": "Ready to act once Marcus falls asleep."
+    },
+    {
+        "entry_id": 6,
+        "day": 1,
+        "time": "23:55",
+        "event": "Pushed the cart towards Marcus’s cabin; feeling nervous, I walked quickly and encountered passengers Raven and Jax.",
+        "reaction": "Lin returned to his cabin, Dong walked toward Car 9."
+    },
+    {
+        "entry_id": 7,
+        "day": 1,
+        "time": "23:57",
+        "event": "Reached Marcus’s cabin; he was lying still in bed.",
+        "reaction": "In the darkness, I stabbed his heart with the knife, then quickly left."
+    },
+    {
+        "entry_id": 8,
+        "day": 1,
+        "time": "00:00",
+        "event": "Returned to my lounge to calm myself down.",
+        "reaction": "Trying to steady my nerves after what I just did."
+    },
+    {
+        "entry_id": 9,
+        "day": 1,
+        "time": "00:15",
+        "event": "The train stalled in the middle of nowhere.",
+        "reaction": "Unexpected and ominous."
+    },
+    {
+        "entry_id": 10,
+        "day": 2,
+        "time": "07:12",
+        "event": "The train abruptly halts in a remote location.",
+        "reaction": "Elena is filled with unease and anxiety, suspecting a link between the train's sudden stop and her actions, while also preparing herself for any potential developments."
+    },
+    {
+        "entry_id": 11,
+        "day": 2,
+        "time": "22:51",
+        "event": "Elena subtly watches Marcus interact with others to learn more about his actions and location.",
+        "reaction": "Filled with anticipation, apprehension, and determination, Elena's painful past memories and quest for justice for her lost daughter fuel her resolve as she closely observes Marcus."
+    }
+]

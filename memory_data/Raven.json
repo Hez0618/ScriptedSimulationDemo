@@ -1,0 +1,93 @@
+[
+    {
+        "entry_id": 1,
+        "day": 1,
+        "time": "22:00",
+        "event": "I boarded the train and finalized all preparations.",
+        "reaction": "Everything was in place. I was ready for Marcus."
+    },
+    {
+        "entry_id": 2,
+        "day": 1,
+        "time": "22:10",
+        "event": "I arrived at car 7 to meet Marcus as planned. I asked if Marcus was trying to replace me.",
+        "reaction": "He dodged the question. I’ve been on this train too long to fall for games. If he won’t talk, I’ll make sure he never speaks again."
+    },
+    {
+        "entry_id": 3,
+        "day": 1,
+        "time": "22:20",
+        "event": "I opened the door and saw a man across the hallway holding a phone, clearly panicked.",
+        "reaction": "I think he was recording something. He may have seen too much. But before I could act, Marcus called him into the room. I waited by the door."
+    },
+    {
+        "entry_id": 4,
+        "day": 1,
+        "time": "22:30",
+        "event": "The unknown man left Marcus’s room.",
+        "reaction": "I followed him quietly to learn more."
+    },
+    {
+        "entry_id": 5,
+        "day": 1,
+        "time": "22:36",
+        "event": "I confirmed his compartment was in car 9.",
+        "reaction": "I decided to handle him later when the train was quiet."
+    },
+    {
+        "entry_id": 6,
+        "day": 1,
+        "time": "22:40",
+        "event": "I returned to my compartment in car 7.",
+        "reaction": "I needed to wait until the time was right to move again."
+    },
+    {
+        "entry_id": 7,
+        "day": 1,
+        "time": "23:45",
+        "event": "I entered Marcus’s room. He was asleep on the bed.",
+        "reaction": "Didn’t even need a gun. I took the fruit knife from the table and killed him. Clean, simple."
+    },
+    {
+        "entry_id": 8,
+        "day": 1,
+        "time": "23:50",
+        "event": "I went to the unknown man’s compartment in car 9 to eliminate him.",
+        "reaction": "The room was empty. I searched his things and found his phone inside his coat."
+    },
+    {
+        "entry_id": 9,
+        "day": 1,
+        "time": "23:55",
+        "event": "On my way back to car 7, I saw the unknown man in the hallway. A train attendant was nearby.",
+        "reaction": "To avoid exposure, I returned to my compartment and waited."
+    },
+    {
+        "entry_id": 10,
+        "day": 2,
+        "time": "00:15",
+        "event": "I heard a loud bang. The train suddenly stalled in the middle of nowhere.",
+        "reaction": "Something was wrong. The situation was getting messy."
+    },
+    {
+        "entry_id": 11,
+        "day": 2,
+        "time": "dialogue",
+        "event": "Talked to Ethan.",
+        "reaction": "Inquired about Ethan's presence on the train."
+    },
+    {
+        "entry_id": 12,
+        "day": 2,
+        "time": "dialogue",
+        "event": "I spoke with Ethan.",
+        "reaction": "He owes me a favor, and I want to know why you're hiding a knife."
+    },
+    {
+        "entry_id": 13,
+        "day": 2,
+        "time": "dialogue",
+        "event": "Talked with Ethan.",
+        "reaction": "It's complicated and we're both in a tough spot now."
+    }
+]

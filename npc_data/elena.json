@@ -1,0 +1,92 @@
+{
+    "name": "Elena",
+    "age": 20,
+    "background": [
+        "I grew up in a quiet town near H City, raised in a family that struggled to get by.",
+        "In 2006, I was accepted into H City University to study fine arts.",
+        "To help pay for tuition, I worked part-time as a nanny for a rich family on Taiping Mountain.",
+        "My job was to care for their daughter Annie, a sweet and lively four-year-old.",
+        "Her mother was kind to me and trusted me completely—she even gave me extra work to help with my fees.",
+        "Annie had an older brother, Ethan, but he was always away at school—we rarely spoke.",
+        "On November 11th, 2007, I overslept and arrived ten minutes late to pick up Annie from kindergarten.",
+        "I saw a strange man carrying her into a car—I ran after them, but the car disappeared.",
+        "We called the police. That afternoon, the kidnappers demanded 200 million in ransom.",
+        "That evening, we followed every instruction and dropped the money at the meeting point.",
+        "But no one came. At 11 p.m., police found Annie's body in a warehouse.",
+        "I broke down. I blamed myself for everything—if only I hadn’t been late.",
+        "The media and my classmates turned on me. Under pressure, I took a leave from school.",
+        "Before I left, I drew the kidnapper’s face from memory for the police—it was all I could do.",
+        "But the man vanished without a trace. No one ever found him.",
+        "Five years ago, I came to Russia and became a train attendant on the Trans-Siberian Railway.",
+        "I live quietly in a staff dormitory outside Moscow, hiding my grief and rage.",
+        "In 2015, fate intervened—the man reappeared as a businessman named Marcus, boarding my train.",
+        "He didn’t recognize me, but I recognized him. I started gathering his information in secret.",
+        "On January 19th, 2017, at 22:00, I confirmed his cabin: Car 7. I work from Car 9.",
+        "I’ve waited ten years for this moment. I won’t let Annie’s death go unpunished."
+    ],
+    "memory": [
+        {
+            "entry_id": 1,
+            "day": 1,
+            "time": "22:40",
+            "event": "As a train attendant, I started checking tickets.",
+            "reaction": "Focused and methodical, making sure everything was in order."
+        },
+        {
+            "entry_id": 2,
+            "day": 1,
+            "time": "23:15",
+            "event": "Finished checking all tickets.",
+            "reaction": "Satisfied with the smooth progress."
+        },
+        {
+            "entry_id": 3,
+            "day": 1,
+            "time": "23:20",
+            "event": "Returned to the lounge and took out a syringe and sleeping pills prepared for an insomniac passenger.",
+            "reaction": "Knowing Marcus’s preference for a certain drink, I injected the sleeping pills into his favorite beverage, then cleaned the syringe and put it away."
+        },
+        {
+            "entry_id": 4,
+            "day": 1,
+            "time": "23:30",
+            "event": "Placed the drugged drink on the dining car and went out to deliver it to Marcus.",
+            "reaction": "Waiting patiently for the drug to take effect."
+        },
+        {
+            "entry_id": 5,
+            "day": 1,
+            "time": "23:35",
+            "event": "Returned to the lounge, took out the Swiss Army knife I had prepared, and hid it under the dining car.",
+            "reaction": "Ready to act once Marcus falls asleep."
+        },
+        {
+            "entry_id": 6,
+            "day": 1,
+            "time": "23:55",
+            "event": "Pushed the cart towards Marcus’s cabin; feeling nervous, I walked quickly and encountered passengers Raven and Jax.",
+            "reaction": "Lin returned to his cabin, Dong walked toward Car 9."
+        },
+        {
+            "entry_id": 7,
+            "day": 1,
+            "time": "23:57",
+            "event": "Reached Marcus’s cabin; he was lying still in bed.",
+            "reaction": "In the darkness, I stabbed his heart with the knife, then quickly left."
+        },
+        {
+            "entry_id": 8,
+            "day": 1,
+            "time": "00:00",
+            "event": "Returned to my lounge to calm myself down.",
+            "reaction": "Trying to steady my nerves after what I just did."
+        },
+        {
+            "entry_id": 9,
+            "day": 1,
+            "time": "00:15",
+            "event": "The train stalled in the middle of nowhere.",
+            "reaction": "Unexpected and ominous."
+        }
+    ]
+}

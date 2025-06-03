@@ -1,0 +1,72 @@
+[
+    {
+        "entry_id": 1,
+        "day": 1,
+        "time": "21:45",
+        "event": "I boarded the train, staying in car 12.",
+        "reaction": "Calm and prepared for the journey ahead."
+    },
+    {
+        "entry_id": 2,
+        "day": 1,
+        "time": "22:00",
+        "event": "The train departed. I was in my room organizing my luggage. I didn’t know which car Marcus was in, but from previous intel, he was likely in a luxury compartment.",
+        "reaction": "Slightly anxious but focused on the plan."
+    },
+    {
+        "entry_id": 3,
+        "day": 1,
+        "time": "23:35",
+        "event": "I began moving through the cars. The corridors were crowded, slowing me down.",
+        "reaction": "Frustrated by the slow progress but kept moving."
+    },
+    {
+        "entry_id": 4,
+        "day": 1,
+        "time": "23:40",
+        "event": "Still no sign of Marcus’s compartment. Passing car 10, I found a railway document on the floor containing the passenger list. I picked it up and hurried back to my room to examine it.",
+        "reaction": "Surprised and hopeful to find useful information."
+    },
+    {
+        "entry_id": 5,
+        "day": 1,
+        "time": "23:50",
+        "event": "Back in my room, I carefully checked the passenger list and found Marcus’s compartment number. I planned to act after midnight.",
+        "reaction": "Determined and ready to move forward."
+    },
+    {
+        "entry_id": 6,
+        "day": 1,
+        "time": "00:10",
+        "event": "I quietly pushed open Marcus’s door with a knife in hand. As the train passed a small station, a flash of light revealed bloodstains on the sheets. I stabbed him once more in anger, dropped the knife, and quickly left.",
+        "reaction": "Angry and relieved at finally confronting him."
+    },
+    {
+        "entry_id": 7,
+        "day": 1,
+        "time": "00:15",
+        "event": "A loud bang was heard; the train came to a halt.",
+        "reaction": "Tense and alert, knowing something serious had happened."
+    },
+    {
+        "entry_id": 8,
+        "day": 2,
+        "time": "dialogue",
+        "event": "Had a conversation with Ethan.",
+        "reaction": "Did you hear that loud sound and know what caused it?"
+    },
+    {
+        "entry_id": 9,
+        "day": 2,
+        "time": "dialogue",
+        "event": "Talked with Ethan.",
+        "reaction": "Observed minimal bloodstains in Marcus's space and inquired about it."
+    },
+    {
+        "entry_id": 10,
+        "day": 2,
+        "time": "dialogue",
+        "event": "Conversed with Ethan.",
+        "reaction": "Recognized him from before and was surprised yet prepared for an extended talk."
+    }
+]

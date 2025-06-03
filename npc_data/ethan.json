@@ -1,0 +1,70 @@
+{
+    "name": "Ethan",
+    "age": 20,
+    "background": [
+        "I was born into a wealthy family in H city and lived in a luxurious villa on Taiping Mountain.",
+        "My father passed away when I was young, leaving me to take care of my mother and younger sister, Angel.",
+        "In 2007, my sister Annie was kidnapped and killed after the ransom was paid. My mother fell into depression and committed suicide in 2008.",
+        "I was sent to an orphanage and became rebellious, eventually joining underground boxing at 15.",
+        "By 19, I became the undefeated champion in H city's underground fight scene.",
+        "In December 2016, I received a tip that the man I was looking for, Marcus, was involved in illegal activities on the Siberian railway."
+    ],
+    "memory": [
+        {
+            "id": 1,
+            "day": 1,
+            "time": "22:00",
+            "event": "The train departs. I sit in my cabin (Car 10, Room 2), waiting for the attendant to check rooms.",
+            "reaction": "I'm planning to steal her passenger log after she passes."
+        },
+        {
+            "id": 2,
+            "day": 1,
+            "time": "22:50",
+            "event": "The attendant reaches my car. She looks familiar. I quietly follow her to see where she goes.",
+            "reaction": "Is she connected to Angel’s case?"
+        },
+        {
+            "id": 3,
+            "day": 1,
+            "time": "23:15",
+            "event": "She leaves the attendant's room in Car 9. I sneak in and grab the passenger log.",
+            "reaction": "No one saw me. I need to find Marcus."
+        },
+        {
+            "id": 4,
+            "day": 1,
+            "time": "23:30",
+            "event": "After some searching, I find Marcus’s cabin and take a photo of his info. I ditch the log in Car 10.",
+            "reaction": "It’s time. I can’t let him get away."
+        },
+        {
+            "id": 5,
+            "day": 1,
+            "time": "00:05",
+            "event": "With my knife ready, I sneak into Marcus’s room and stab him in the chest three times while he sleeps.",
+            "reaction": "One for Angel, one for Mom, and one for myself."
+        },
+        {
+            "id": 6,
+            "day": 1,
+            "time": "00:08",
+            "event": "I go to the restroom and wash the blood from the knife.",
+            "reaction": "Stay calm. No one saw me."
+        },
+        {
+            "id": 7,
+            "day": 1,
+            "time": "00:10",
+            "event": "I return to my cabin and hide the knife.",
+            "reaction": "It’s over. I just need to act normal now."
+        },
+        {
+            "id": 8,
+            "day": 1,
+            "time": "00:15",
+            "event": "Suddenly, a loud crash—then the train comes to a halt.",
+            "reaction": "What happened? Did someone find the body already?"
+        }
+    ]
+}
